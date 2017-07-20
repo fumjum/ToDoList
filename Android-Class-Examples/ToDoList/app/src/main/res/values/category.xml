@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //This array populates the selection spinner
+    <string-array name="categories">
+        <item>Work</item>
+        <item>School</item>
+        <item>Family</item>
+        <item>Friends</item>
+    </string-array>
+</resources>
